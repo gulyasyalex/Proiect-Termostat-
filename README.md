@@ -14,3 +14,6 @@ Valori pentru PID:
 - P : 10.00
 - I : 0.40
 - D : 0
+
+Video showcasing project:
+https://youtu.be/X3jsy3Vucow?si=EJ_61QvUi3H1qoan
